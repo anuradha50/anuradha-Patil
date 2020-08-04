@@ -1,2 +1,3 @@
 # anuradha-Patil
-I want develop my skill with the help of GitHub
+I want to develop my skill with the help of GitHub
+and acquire knowledge from other expert persons.
